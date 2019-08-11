@@ -1,0 +1,9 @@
+helloworld!!qs
+quit
+
+clear
+:w
+:q
++ZZ
+
+
