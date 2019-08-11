@@ -1,6 +1,6 @@
 helloworld!!qs
 quit
-
+ting +
 clear
 :w
 :q
